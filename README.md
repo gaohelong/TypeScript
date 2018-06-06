@@ -97,3 +97,7 @@ node built/local/tsc.js hello.ts
 ## Roadmap
 
 For details on our planned features and future direction please refer to our [roadmap](https://github.com/Microsoft/TypeScript/wiki/Roadmap).
+
+## 资料站
+[TypeScript Handbook（中文版）](https://legacy.gitbook.com/book/zhongsp/typescript-handbook/details)&nbsp;&nbsp;&nbsp;
+[w3cschool](https://www.w3cschool.cn/typescript/)
